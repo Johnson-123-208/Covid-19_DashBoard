@@ -1,8 +1,4 @@
-# Covid-19_DashBoard
-Absolutely! Here's the **complete and clean `README.md`** code you can directly copy into your project:
-
 ---
-
 ```markdown
 # 🌍 COVID-19 Global Dashboard
 
