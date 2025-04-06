@@ -1,4 +1,3 @@
----
 ```markdown
 # 🌍 COVID-19 Global Dashboard
 
